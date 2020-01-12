@@ -1,0 +1,127 @@
+
+.el-row {
+  margin-bottom: 0px;
+}
+.el-col {
+  /*border-radius: 0px;*/
+}
+.bg-purple-dark {
+  background: #99a9bf;
+}
+.bg-purple {
+  background: #d3dce6;
+}
+.bg-purple-light {
+  background: #e5e9f2;
+}
+.grid-content {
+  /*border-radius: 4px;*/
+  min-height: 36px;
+}
+.row-bg {
+  padding: 0px 0;
+  background-color: #f9fafc;
+}
+.display1 {
+  padding-left: 5px;
+  padding-top: 10px;
+}
+.btn1 {
+  font-size: 16px;
+  padding: 10px 10px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background-color: #fff;
+  margin-bottom: -1px;
+  color: #000;
+  width: 150px;
+}
+.btn1:hover {
+  background: #e0e0e0;
+}
+.btn2 {
+  width: 80px;
+  padding: 7px;
+  font-size: 14px;
+  border-radius: 3px;
+  border: none;
+  color: white;
+  background-color: #338FFC;
+  float: left;
+  margin-left: 5px;
+  margin-top: 17px;
+  margin-bottom: 5px;
+}
+
+.btn2:hover {
+  background-color: #5FA7FE;
+}
+.btn3 {
+  font-size: 6px;
+  padding: 10px 10px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background-color: #fff;
+  margin-bottom: -1px;
+  color: #000;
+  width: 100px;
+}
+.btn3:hover {
+  background: #5FA7FE;
+}
+.btn4 {
+  font-size: 6px;
+  padding: 10px 10px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background-color: #338FFC;
+  margin-bottom: -1px;
+  color: #000;
+  width: 100px;
+}
+.btn4:hover {
+  background: #e0e0e0;
+}
+.display2 {
+  border: solid 1px #e0e0e0;
+  height: 600px;
+  width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: #fff;
+}
+.s2{
+  float:left;
+  margin:14px 0 10px 0;
+  font-weight: bold;
+  background-color: #00AAFF;
+  border:solid 1px #00AAFF;
+  border-radius: 5px;
+  width: 20%;
+  padding:2px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 10px;
+}
+th {
+  font-size: 14px;
+  border: solid 1px #ccc;
+  font-weight: bold;
+  padding: 5px;
+  background-color: #F1F1F1;
+  text-align: center;
+}
+table, td {
+  border: solid 1px #ccc;
+  padding: 5px;
+  text-align: center;
+  font-size: 14px;
+}
